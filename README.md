@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YoshaShriyanRHUL
 - 👀 I’m interested in Artificial Intelligence and Data Analysis.
 - 🌱 I’m currently learning Deep Learning, Machine Learning, Data Analysis and NLP.
-- 💞️ I’m looking to collaborate on projects related to data analytics or AI.
+- 💞️ I’m looking to collaborate on projects related to Data Analytics, Machine Learning, Deep Learning or AI.
 - 📫 How to reach me yosha.shriyan@gmail.com
 
 <!---
